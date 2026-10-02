@@ -1,0 +1,16 @@
+{
+    "name": "rad-themes/statamic-ritovex",
+    "description": "An AI automation and SaaS platform starter kit for Statamic by Rad Themes.",
+    "type": "statamic-starter-kit",
+    "license": "proprietary",
+    "keywords": ["statamic", "starter-kit", "saas", "ai", "tailwindcss"],
+    "authors": [{"name": "Rad Themes", "homepage": "https://statamic.com/creators/rad-themes"}],
+    "support": {"issues": "https://github.com/rad-themes/statamic-ritovex/issues"},
+    "require": {"php": "^8.3", "statamic/cms": "^6.34"},
+    "extra": {
+        "statamic": {
+            "name": "Ritovex",
+            "description": "An AI automation and SaaS platform starter kit for Statamic by Rad Themes."
+        }
+    }
+}

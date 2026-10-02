@@ -1,0 +1,9 @@
+{
+  "title": "Blog",
+  "template": "insights-detail",
+  "layout": "layout",
+  "route": "{mount}/{slug}",
+  "mount": "86ef3a95-ff19-535c-ad89-45abb7965be3",
+  "date": false,
+  "revisions": false
+}

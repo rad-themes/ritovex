@@ -1,0 +1,9 @@
+{
+  "title": "Features",
+  "template": "services-detail",
+  "layout": "layout",
+  "route": "{mount}/{slug}",
+  "mount": "ca8a8fe9-c9e4-5ea2-b448-98f3b1691ee5",
+  "date": false,
+  "revisions": false
+}

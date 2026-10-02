@@ -1,0 +1,9 @@
+{
+  "title": "Integrations",
+  "template": "cases-detail",
+  "layout": "layout",
+  "route": "{mount}/{slug}",
+  "mount": "2edf20b9-b742-583a-aef9-66a6b98af7a7",
+  "date": false,
+  "revisions": false
+}
