@@ -20,8 +20,8 @@ Build a modern SaaS product site with editable platform features, integration ec
 ## Installation
 
 ```sh
-composer config repositories.ritovex path /absolute/path/to/statamic-ritovex
-php please starter-kit:install rad-themes/statamic-ritovex --local --without-user --clear-site
+composer config repositories.ritovex path /absolute/path/to/ritovex
+php please starter-kit:install rad-themes/ritovex --local --without-user --clear-site
 php please make:user
 php please stache:refresh
 npm ci
